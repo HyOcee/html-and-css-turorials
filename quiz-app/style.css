@@ -1,0 +1,41 @@
+#box {
+	padding-left: 50px;
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#question {
+	width: 400px;
+	text-align: justify;
+}
+
+#answers {
+	width: 400px;
+	border: solid;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+#Score {
+
+}
+
+#RightOrWrong {
+
+}
+
+#answer1 {
+	width: 250px;
+}
+#answer2 {
+	width: 250px;
+}
+#answer3 {
+	width: 250px;
+}
+#answer4 {
+	width: 250px;
+}
